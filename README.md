@@ -1,5 +1,8 @@
+[![MasterHead](https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif)]
+
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
 <h3 align="center">Data analyst skilled in translating complex data sets into actionable insights to inform business decisions.</h3>
+(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*9I95oSSQsiboWhya8un3zQ.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit4348&label=Profile%20views&color=0e75b6&style=flat" alt="mohit4348" /> </p>
 
